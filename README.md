@@ -1,2 +1,2 @@
-# Calculator-App
-Calculator App - Stats Function 
+#EatSmart Application 
+Introduction To Mobile Application Development
